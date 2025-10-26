@@ -45,10 +45,9 @@ Key analytical directions:
 - Modeling **emotional network graphs** between major actors
 
 ## 📈 Results (Sample Visualization)
-
+![Agenda Graph](Figure_1.png)
 
 ## 💾 Usage
-
 ```bash
 # Step 1: Run sentiment pipeline and aggregate the data
 python3 process_core.py; python3 berry_index.py
