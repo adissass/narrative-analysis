@@ -1,0 +1,76 @@
+{
+  "subject": "Sanji",
+  "bio": "Sanji, the Straw Hat Pirates' cook, is a chivalrous fighter who refuses to harm women. He values loyalty, pride, and style. Protecting women or helping his crew counts as success. Getting manipulated by women or losing control of his emotions counts as a massive failure. Being mocked, embarrased, or beaten without resistance is horrible.",
+  "agendas": [
+    { "chapter": 1065, "event": "Saves Nami by attacking S-Shark." },
+    { "chapter": 1073, "event": "Saves Edison from the Seraphim." },
+    {
+      "chapter": 1077,
+      "event": "Saves Nami again and Brook from S-Shark with the Ivankov-style kick."
+    },
+    {
+      "chapter": 1078,
+      "event": "Casually blocks S-Shark’s punch with his face while Luffy and Zoro huff and puff in the previous panel."
+    },
+    {
+      "chapter": 1091,
+      "event": "Sealed an injured Kaku in a bubble after Lucci attacks Stussy."
+    },
+    {
+      "chapter": 1091,
+      "event": "Despite having better speed and CoO than Zoro, he isn't the one who attacks Lucci (weird because a woman was hurt)."
+    },
+    {
+      "chapter": 1094,
+      "event": "Dashes from 'Vegatank 8' halfway across the island to save Bonney."
+    },
+    {
+      "chapter": 1095,
+      "event": "Eye-diffed, hollers trying to summon the Conqueror’s Haki he doesn’t have (embarrasing)."
+    },
+    {
+      "chapter": 1104,
+      "event": "Deflects Saturn’s attack, saving both Kuma and Bonney."
+    },
+    {
+      "chapter": 1106,
+      "event": "Vegapunk gets stabbed by Saturn on his watch, but it’s because he was protecting Kuma and Bonney from Kizaru."
+    },
+    {
+      "chapter": 1107,
+      "event": "Made Kizaru shit his pants, then told him to sign an apology form."
+    },
+    {
+      "chapter": 1108,
+      "event": "Immediately fails his captain’s order to get Vegapunk out of there alive."
+    },
+    {
+      "chapter": 1110,
+      "event": "Helps Zoro beat Lucci by calling him a liability."
+    },
+    {
+      "chapter": 1113,
+      "event": "Performs a strong block and counterattack against Nusjuro while carrying injured allies."
+    },
+    {
+      "chapter": 1113,
+      "event": "Makes an inappropriate comment toward Bonney, showing poor judgment (horrible)."
+    },
+    {
+      "chapter": 1113,
+      "event": "Got bit immediately after attacking Nusjuro (little to no damage)."
+    },
+    {
+      "chapter": 1115,
+      "event": "Hits the ground while looking like origami."
+    },
+    {
+      "chapter": 1118,
+      "event": "Froze as fodder Giants with no Haki block Mars’s hyper beam."
+    },
+    {
+      "chapter": 1119,
+      "event": "Joins a combined attack against Mars that knocks Mars away."
+    }
+  ]
+}

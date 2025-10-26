@@ -1,0 +1,38 @@
+{
+  "subject": "Nico Robin",
+  "bio": "Robin, the archaeologist of the Straw Hat Pirates, is intelligent, composed, and deeply curious. She values knowledge, truth, and the preservation of history above personal comfort. Uncovering secrets or protecting her friends through intellect counts as success. Allowing fear, isolation, or despair to control her counts as failure. Being deceived or powerless to protect history is a deep humiliation.",
+  "agendas": [
+    {
+      "chapter": 1062,
+      "event": "Recognized as a potential threat by Shaka, indicating her importance."
+    },
+    {
+      "chapter": 1065,
+      "event": "Attempts to attack S-Shark to protect Nami; the hit misses but still helps divert danger."
+    },
+    {
+      "chapter": 1066,
+      "event": "Learns that Saul is alive, a major emotional revelation for her."
+    },
+    {
+      "chapter": 1089,
+      "event": "Gets taken out off-screen by an unknown source, leaving her status unclear."
+    },
+    {
+      "chapter": 1090,
+      "event": "Remains unconscious or inactive for 23 consecutive chapters."
+    },
+    {
+      "chapter": 1113,
+      "event": "Wakes up upon hearing Saturn’s voice, regaining awareness."
+    },
+    {
+      "chapter": 1114,
+      "event": "Uses her spider web ability to protect her crew and assist in fighting Saturn."
+    },
+    {
+      "chapter": 1120,
+      "event": "Learns about Clover’s fate and reacts emotionally by covering her face."
+    }
+  ]
+}

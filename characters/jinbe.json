@@ -1,0 +1,39 @@
+{
+  "subject": "Jinbe",
+  "bio": "Jinbe, the helmsman of the Straw Hat Pirates, is a calm and principled warrior guided by honor and empathy. He values peace, loyalty, and the unity of races above pride or impulse. Acting with restraint, defending his crew, or promoting understanding counts as success. Letting prejudice, anger, or blind loyalty override his morals counts as failure. Losing composure or betraying trust is dishonorable.",
+  "agendas": [
+    {
+      "chapter": 1061,
+      "event": "Saved Luffy, Chopper, and Bonney from drowning."
+    },
+    {
+      "chapter": 1064,
+      "event": "Gets off-screened by Bonney’s age powers. It’s possible but unclear if he has strong enough Haki to turn back to normal."
+    },
+    {
+      "chapter": 1069,
+      "event": "Carries Atlas away from Luffy vs Lucci fight."
+    },
+    {
+      "chapter": 1093,
+      "event": "Packed boxes while: 1. Luffy fights a full round with Kizaru (multiple chapters). 2. Zoro fights Lucci (multiple chapters). 3. Sanji is trying to protect multiple people (multiple chapters)."
+    },
+    { "chapter": 1107, "event": "Went to go stop Zoro vs Lucci." },
+    {
+      "chapter": 1111,
+      "event": "Attempted to steal Zoro's kill (didn't even take Lucci out)."
+    },
+    {
+      "chapter": 1111,
+      "event": "Became Zoro’s Uber driver for multiple chapters."
+    },
+    {
+      "chapter": 1117,
+      "event": "Throws and catches Zoro, contributing about 20% of Zoro’s 'even' clash."
+    },
+    {
+      "chapter": 1120,
+      "event": "Actually contributes to the Sunny’s takeoff by steering the ship."
+    }
+  ]
+}

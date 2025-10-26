@@ -1,0 +1,26 @@
+{
+  "subject": "Buggy",
+  "bio": "Buggy, the captain of the Buggy Pirates and current Emperor, is greedy, dramatic, and obsessed with fame. He values recognition and survival more than strength or honor. Gaining attention, wealth, or undeserved power counts as success. Being exposed as weak or losing control of his image counts as failure. Public humiliation or being ignored is catastrophic for his agenda.",
+  "agendas": [
+    {
+      "chapter": 1058,
+      "event": "Made Mihawk and Crocodile look like mere underlings by being the face of the Cross Guild, even if it was by accident."
+    },
+    {
+      "chapter": 1082,
+      "event": "Gets beat up and tortured because his henchman designed the ship after him."
+    },
+    {
+      "chapter": 1082,
+      "event": "Calls Shanks washed for not immediately going after the One Piece, bolted before listening to an explanation."
+    },
+    {
+      "chapter": 1082,
+      "event": "Calls out Mihawk and Crocodile for being washed."
+    },
+    {
+      "chapter": 1082,
+      "event": "With a boot on his face, declares to the entire Cross Guild they are going after the One Piece. Mihawk and Crocodile now have no choice but to comply."
+    }
+  ]
+}
